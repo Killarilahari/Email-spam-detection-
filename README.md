@@ -127,6 +127,9 @@ print(label, confidence)
 ## 👩‍💻 Author
 
 **Killari Lahari**
+
 B.Tech – Computer Science and Engineering (AI and ML)
+
 📧 laharikillari007@gmail.com
+
 🔗 [LinkedIn](https://linkedin.com/in/lahari-killari-375587324)
