@@ -1,4 +1,4 @@
-# 📧 Email Spam Detection Using Machine Learning and NLP
+# 📧 Email Spam Detection Using Machine Learning and python
 
 A machine learning system that classifies messages as **Spam** or **Ham (Not Spam)** using Natural Language Processing and TF-IDF feature extraction. Three classifiers are trained and compared to identify the best-performing model automatically.
 
